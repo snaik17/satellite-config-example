@@ -1,6 +1,6 @@
 kind: Namespace
 apiVersion: v1
 metadata:
-  name: demo-namespace
+  name: smi
   labels:
-    name: demo-namespace
+    name: smi
